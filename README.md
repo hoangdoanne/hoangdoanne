@@ -31,7 +31,7 @@ namespace Mạc Phàm
 
 <p align="center">
   <a href="https://www.facebook.com/hoangdoanne">
-    <img src="https://www.facebook.com/hoangdoanne" alt="Facebook" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
   <a href="https://github.com/hoangdoanne">
@@ -43,11 +43,6 @@ namespace Mạc Phàm
 
 <table align="center">
   <tbody>
-      <td width="20%" align="center">
-	 <a href="https://docs.microsoft.com/dotnet/html/">
-		<span>Html#</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/html.svg">
-	 </a>
       </td>
       <td width="20%" align="center">
 	<a href="https://docs.oracle.com/java/">
@@ -80,21 +75,21 @@ namespace Mạc Phàm
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
+<a href="https://github.com/hoangdoanne">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
+<a href="https://github.com/hoangdoanne/transfer.sh">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
+<a href="https://github.com/hoangdoanne/autoDBR" margin="100">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
+<a href="cặc">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
