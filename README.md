@@ -1,26 +1,26 @@
-# <p align="center">Trần Ngọc Tiến</p>
+# <p align="center">Đoàn Đình Hoàng</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/hoangdoanne">
+	<img src="https://avatars.githubusercontent.com/u/102528537" width = "200" alt="Mạc Phàm">
 	</a>
 </p>
 
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace Mạc Phàm
 {
-    class ngoctienTNT
+    class hoangdoanne
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
+            string Name = "Đoàn Đình Hoàng";
             string Age = "2002";
             string Gender = "Male";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
-            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
+            string Address = "Thanh Hoá, Việt Nam";
+            string University = "Ẩn";
+            string Skills = "HTML, JavaScript";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
     }
@@ -30,36 +30,12 @@ namespace TNT
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
-  <a href="https://www.facebook.com/ngoctien.TNT">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
+  <a href="https://www.facebook.com/hoangdoanne">
+    <img src="https://www.facebook.com/hoangdoanne" alt="Facebook" height="30" width="30">
   </a>
 	
-  <a href="https://github.com/ngoctienTNT">
+  <a href="https://github.com/hoangdoanne">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-  
-  <a href="https://dev.to/ngoctientnt">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-  </a>
-	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-  </a>
-  
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
-  </a>
-	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  </a>
-  
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/c/ThienLongTNT">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
 
@@ -67,17 +43,10 @@ namespace TNT
 
 <table align="center">
   <tbody>
-    <tr valign="top">
       <td width="20%" align="center">
-	<a href="https://devdocs.io/cpp/">
-		<span>𝗖++</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
-	 </a>
-      </td>
-      <td width="20%" align="center">
-	 <a href="https://docs.microsoft.com/dotnet/csharp/">
-		<span>𝗖#</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 <a href="https://docs.microsoft.com/dotnet/html/">
+		<span>Html#</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/html.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
@@ -85,50 +54,6 @@ namespace TNT
 		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 	 </a>
-      </td>
-	<td width="20%" align="center">
-		<a href="https://dart.dev/guides">
-        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-		</a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://docs.python.org/3/">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-	      </a>
-      </td>
-    </tr>
-    <tr valign="top">
-	<td width="20%" align="center">
-		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-		</a>
-      </td>
-	<td width="20%" align="center">
-		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
-		</a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://developer.android.com/docs">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
-	      </a>
-      </td>
-	    <td width="20%" align="center">
-	<a href="https://docs.flutter.dev/">
-		<span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
-	</a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://git-scm.com/doc">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-	      </a>
       </td>
     </tr>
   </tbody>
