@@ -75,22 +75,22 @@ namespace Mạc Phàm
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/hoangdoanne">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
+<a href="https://github.com/hoangdoanne/phuc">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangdoanne&repo=phuc&theme=tokyonight" alt="hoangdoanne" />
 </a>
 	
-<a href="https://github.com/hoangdoanne/transfer.sh">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
+<a href="https://github.com/hoangdoanne/an">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangdoanne&repo=an&theme=tokyonight" alt="hoangdoanne" />
 </a>
 </p>
 
 <p align="center">	
-<a href="https://github.com/hoangdoanne/autoDBR" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
+<a href="https://github.com/hoangdoanne/cac" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangdoanne&repo=cac&theme=tokyonight" alt="hoangdoane" />
 </a>
 	
-<a href="cặc">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
+<a href="https://github.com/hoangdoanne/tao">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangdoanne&repo=tao&theme=tokyonight" alt="hoangdoanne" />
 </a>
 </p>
 
