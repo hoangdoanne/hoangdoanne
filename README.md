@@ -27,7 +27,7 @@ namespace Mạc Phàm
 }
 ```
 
-## <p align="center">You can reach me at 🌹</p>
+## <p align="center">Bạn có thể liên hệ với tôi tại 🌹</p>
 
 <p align="center">
   <a href="https://www.facebook.com/hoangdoanne">
@@ -54,17 +54,17 @@ namespace Mạc Phàm
   </tbody>
 </table>
 
-## <p align="center">Visitor's count :eyes:</p>
+## <p align="center">Số lượng khách truy cập :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hoangdoanne}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
 
-## <p align="center">GitHub Profile Trophy 🏆</p>
+## <p align="center">GitHub Hồ sơ Trophy 🏆</p>
 
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=hoangdoanne&theme=tokyonight&row=2&column=4">
 </p>
 
-## <p align="center">Top langs :tongue:</p>
+## <p align="center">Ngôn ngữ hàng đầu :tongue:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangdoanne&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
 
@@ -72,7 +72,7 @@ namespace Mạc Phàm
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hoangdoanne&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
 
-## <p align="center">Repository pin 📌</p>
+## <p align="center">Ghim kho lưu trữ 📌</p>
 
 <p align="center">	
 <a href="https://github.com/hoangdoanne/phuc">
@@ -94,7 +94,7 @@ namespace Mạc Phàm
 </a>
 </p>
 
-## <p align="center">Github Contributions 📈</p>
+## <p align="center">Đóng góp trên Github 📈</p>
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=hoangdoanne&theme=react-dark&hide_border=true">
@@ -103,7 +103,7 @@ namespace Mạc Phàm
 <hr>
 <br>
 
-## <p align="center">Just a snake eating my contributions 🐍</p>
+## <p align="center">Chỉ là một con rắn ăn thịt những đóng góp của tôi 🐍</p>
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
